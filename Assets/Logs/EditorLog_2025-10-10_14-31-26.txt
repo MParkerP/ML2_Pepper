@@ -1,0 +1,276 @@
+Unity Editor session started at 10/10/2025 2:31:26 PM
+
+10/10/2025 2:32:35 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:35 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:35 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:35 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:35 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:35 PM: [Warning]  Failed to download any source lists!
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:35 PM: [Warning]  Still waiting for package manifests to be fetched remotely.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:37 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:37 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:37 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:37 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:37 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:37 PM: [Warning]  Failed to download any source lists!
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:37 PM: [Warning]  Still waiting for package manifests to be fetched remotely.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:39 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:39 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:39 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:39 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:39 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:39 PM: [Warning]  Failed to download any source lists!
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:39 PM: [Warning]  Still waiting for package manifests to be fetched remotely.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:40 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:40 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:40 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:40 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:40 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:40 PM: [Warning]  Failed to download any source lists!
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:40 PM: [Warning]  Still waiting for package manifests to be fetched remotely.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:42 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:42 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:42 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:42 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:42 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:42 PM: [Warning]  Failed to download any source lists!
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:42 PM: [Warning]  Still waiting for package manifests to be fetched remotely.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:46 PM: [Warning] Shader warning in 'Custom/URP_TransparentShadowCollector': pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them at line 72 (on d3d11)
+
+Compiling Subshader: 0, Pass: ForwardLit, Fragment program with _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS
+Platform defines: SHADER_API_MOBILE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_RGBM_ENCODING UNITY_NO_CUBEMAP_ARRAY UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2
+Disabled keywords: SHADER_API_GLES30 UNITY_COLORSPACE_GAMMA UNITY_ENABLE_DETAIL_NORMALMAP UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS_VERTEX _MAIN_LIGHT_SHADOWS_CASCADE _SCREEN_SPACE_OCCLUSION _SHADOWS_SOFT
+
+
+10/10/2025 2:32:46 PM: [Warning] Shader warning in 'Custom/URP_TransparentShadowCollector': pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them at line 72 (on vulkan)
+
+Compiling Subshader: 0, Pass: ForwardLit, Vertex program with STEREO_MULTIVIEW_ON _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS_CASCADE
+Platform defines: SHADER_API_MOBILE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_RGBM_ENCODING UNITY_NO_CUBEMAP_ARRAY UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION
+Disabled keywords: SHADER_API_GLES30 UNITY_COLORSPACE_GAMMA UNITY_ENABLE_DETAIL_NORMALMAP UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF2 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS_VERTEX
+
+
+10/10/2025 2:32:49 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:49 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:49 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:49 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:49 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:49 PM: [Warning]  Failed to download any source lists!
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:49 PM: [Warning]  Still waiting for package manifests to be fetched remotely.
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:51 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:51 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:51 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:51 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:51 PM: [Warning]  Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:51 PM: [Warning]  Failed to download any source lists!
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:32:51 PM: [Warning]  Still waiting for package manifests to be fetched remotely.
+System.Linq.Enumerable/WhereEnumerableIterator`1<object>:MoveNext ()
+Bee.BeeDriver.BeeDriver:WriteDataForBuildProgram (Bee.BeeDriver.InternalState,System.Threading.Tasks.TaskCompletionSource`1<int>)
+Bee.BeeDriver.BeeDriver/<>c__DisplayClass0_0:<BuildAsync>g__WriteData|0 ()
+Bee.BeeDriver.BeeDriver:BuildAsync (Bee.BeeDriver.BuildRequest,System.Threading.CancellationToken)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:33:10 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 2:33:11 PM: [Log] Build completed with a result of 'Succeeded' in 38 seconds (37647 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+

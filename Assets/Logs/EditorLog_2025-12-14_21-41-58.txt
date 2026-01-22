@@ -1,0 +1,14 @@
+Unity Editor session started at 12/14/2025 9:41:58 PM
+
+12/14/2025 9:42:00 PM: [Warning] Registering subsystem descriptor with duplicate ID 'MagicLeap-Raycast' - overwriting previous entry.
+UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor:RegisterDescriptor (UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor/Cinfo)
+MagicLeap.OpenXR.InteractionProfiles.MagicLeapControllerProfile/RaycastSubsystem:RegisterDescriptor () (at ./Library/PackageCache/com.magicleap.unitysdk@2.6.0/Runtime/OpenXR/MagicLeapControllerProfile.cs:512)
+
+
+12/14/2025 9:42:07 PM: [Log] Jump pressed
+UnityEngine.Debug:Log (object)
+PepperController:OnJump (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/Scripts/PepperController.cs:48)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+

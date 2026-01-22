@@ -1,0 +1,18 @@
+Unity Editor session started at 7/20/2025 10:44:40 AM
+
+7/20/2025 10:44:56 AM: [Log] Using OpenXR
+UnityEngine.Debug:Log (object)
+MagicLeap.SetupTool.Editor.Setup.ImportMagicLeapSdkStep:CheckUnityMagicLeapPackage () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/SetupSteps/ImportMagicLeapSdkStep.cs:172)
+MagicLeap.SetupTool.Editor.Setup.ImportMagicLeapSdkStep:Refresh () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/SetupSteps/ImportMagicLeapSdkStep.cs:103)
+MagicLeap.SetupTool.Editor.MagicLeapSetupWindow:RefreshSteps () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/MagicLeapSetupWindow.cs:311)
+MagicLeap.SetupTool.Editor.MagicLeapSetupWindow:OnFocus () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/MagicLeapSetupWindow.cs:293)
+UnityEditor.EditorWindow:GetWindow<MagicLeap.SetupTool.Editor.MagicLeapSetupWindow> (bool,string)
+MagicLeap.SetupTool.Editor.MagicLeapSetupWindow:Open () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/MagicLeapSetupWindow.cs:321)
+MagicLeap.SetupTool.Editor.MagicLeapSetupWindow/<>c:<ForceOpen>b__37_0 () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/MagicLeapSetupWindow.cs:379)
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+
+7/20/2025 10:44:57 AM: [Log] [Package Manager Window] Error while getting product update details: Something went wrong. Please try again later. [Error 0
+UnityEditor.AsyncHTTPClient:Done (UnityEditor.AsyncHTTPClient/State,int)
+
+

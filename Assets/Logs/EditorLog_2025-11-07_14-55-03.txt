@@ -1,0 +1,10 @@
+Unity Editor session started at 11/7/2025 2:55:03 PM
+
+11/7/2025 3:16:36 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/7/2025 4:28:07 PM: [Warning] Split Animation Take Not Found 'Scene'
+
+

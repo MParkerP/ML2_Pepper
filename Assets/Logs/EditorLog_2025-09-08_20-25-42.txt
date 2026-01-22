@@ -1,0 +1,34 @@
+Unity Editor session started at 9/8/2025 8:25:42 PM
+
+9/8/2025 8:26:05 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+
+9/8/2025 8:26:31 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:26:32 PM: [Log] Build completed with a result of 'Succeeded' in 32 seconds (32237 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:28:22 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:28:23 PM: [Log] Build completed with a result of 'Succeeded' in 14 seconds (13991 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:34:13 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:34:14 PM: [Log] Build completed with a result of 'Succeeded' in 14 seconds (14162 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:43:25 PM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

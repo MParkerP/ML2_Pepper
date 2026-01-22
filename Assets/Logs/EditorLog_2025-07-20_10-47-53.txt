@@ -1,0 +1,107 @@
+Unity Editor session started at 7/20/2025 10:47:53 AM
+
+7/20/2025 10:47:57 AM: [Warning] Creating missing AudioSource component for MLWebRTCAudioSinkBehavior in MLWebRTCAudioTrackBehavior.
+
+
+7/20/2025 10:47:58 AM: [Log] Created initial copy of settings: XRInteractionEditorSettings at Assets/XRI/Settings/XRInteractionEditorSettings.asset
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XRLoggingUtils:Log (string,UnityEngine.Object) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/XRLoggingUtils.cs:34)
+Unity.XR.CoreUtils.ScriptableSettingsBase`1<UnityEditor.XR.Interaction.Toolkit.XRInteractionEditorSettings>:Save (string) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:261)
+Unity.XR.CoreUtils.Editor.EditorScriptableSettings`1<UnityEditor.XR.Interaction.Toolkit.XRInteractionEditorSettings>:CreateAndLoad () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/EditorScriptableSettings.cs:75)
+Unity.XR.CoreUtils.Editor.EditorScriptableSettings`1<UnityEditor.XR.Interaction.Toolkit.XRInteractionEditorSettings>:get_Instance () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/EditorScriptableSettings.cs:27)
+System.Reflection.RuntimePropertyInfo:GetValue (object,object[])
+Unity.XR.CoreUtils.ScriptableSettingsBase:GetInstanceByType (System.Type) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:54)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer/<>c__DisplayClass3_0:<LoadAllSettingsClasses>b__0 (System.Reflection.Assembly) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:43)
+Unity.XR.CoreUtils.ReflectionUtils:ForEachAssembly (System.Action`1<System.Reflection.Assembly>) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ReflectionUtils.cs:91)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:LoadAllSettingsClasses () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:39)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:Update () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:33)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:47:59 AM: [Log] Created initial copy of settings: XRSimulationPreferences at Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XRLoggingUtils:Log (string,UnityEngine.Object) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/XRLoggingUtils.cs:34)
+Unity.XR.CoreUtils.ScriptableSettingsBase`1<UnityEngine.XR.Simulation.XRSimulationPreferences>:Save (string) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:261)
+Unity.XR.CoreUtils.ScriptableSettings`1<UnityEngine.XR.Simulation.XRSimulationPreferences>:CreateAndLoad () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettings.cs:45)
+Unity.XR.CoreUtils.ScriptableSettings`1<UnityEngine.XR.Simulation.XRSimulationPreferences>:get_Instance () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettings.cs:25)
+System.Reflection.RuntimePropertyInfo:GetValue (object,object[])
+Unity.XR.CoreUtils.ScriptableSettingsBase:GetInstanceByType (System.Type) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:54)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer/<>c__DisplayClass3_0:<LoadAllSettingsClasses>b__0 (System.Reflection.Assembly) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:43)
+Unity.XR.CoreUtils.ReflectionUtils:ForEachAssembly (System.Action`1<System.Reflection.Assembly>) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ReflectionUtils.cs:91)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:LoadAllSettingsClasses () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:39)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:Update () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:33)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:47:59 AM: [Log] Created initial copy of settings: XRSimulationRuntimeSettings at Assets/XR/Resources/XRSimulationRuntimeSettings.asset
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XRLoggingUtils:Log (string,UnityEngine.Object) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/XRLoggingUtils.cs:34)
+Unity.XR.CoreUtils.ScriptableSettingsBase`1<UnityEngine.XR.Simulation.XRSimulationRuntimeSettings>:Save (string) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:261)
+Unity.XR.CoreUtils.ScriptableSettings`1<UnityEngine.XR.Simulation.XRSimulationRuntimeSettings>:CreateAndLoad () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettings.cs:45)
+Unity.XR.CoreUtils.ScriptableSettings`1<UnityEngine.XR.Simulation.XRSimulationRuntimeSettings>:get_Instance () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettings.cs:25)
+System.Reflection.RuntimePropertyInfo:GetValue (object,object[])
+Unity.XR.CoreUtils.ScriptableSettingsBase:GetInstanceByType (System.Type) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:54)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer/<>c__DisplayClass3_0:<LoadAllSettingsClasses>b__0 (System.Reflection.Assembly) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:43)
+Unity.XR.CoreUtils.ReflectionUtils:ForEachAssembly (System.Action`1<System.Reflection.Assembly>) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ReflectionUtils.cs:91)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:LoadAllSettingsClasses () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:39)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:Update () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:33)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:47:59 AM: [Log] Created initial copy of settings: SimulationEnvironmentAssetsManager at Assets/XR/UserSimulationSettings/SimulationEnvironmentAssetsManager.asset
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XRLoggingUtils:Log (string,UnityEngine.Object) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/XRLoggingUtils.cs:34)
+Unity.XR.CoreUtils.ScriptableSettingsBase`1<UnityEditor.XR.Simulation.SimulationEnvironmentAssetsManager>:Save (string) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:261)
+Unity.XR.CoreUtils.Editor.EditorScriptableSettings`1<UnityEditor.XR.Simulation.SimulationEnvironmentAssetsManager>:CreateAndLoad () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/EditorScriptableSettings.cs:75)
+Unity.XR.CoreUtils.Editor.EditorScriptableSettings`1<UnityEditor.XR.Simulation.SimulationEnvironmentAssetsManager>:get_Instance () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/EditorScriptableSettings.cs:27)
+System.Reflection.RuntimePropertyInfo:GetValue (object,object[])
+Unity.XR.CoreUtils.ScriptableSettingsBase:GetInstanceByType (System.Type) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:54)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer/<>c__DisplayClass3_0:<LoadAllSettingsClasses>b__0 (System.Reflection.Assembly) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:43)
+Unity.XR.CoreUtils.ReflectionUtils:ForEachAssembly (System.Action`1<System.Reflection.Assembly>) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ReflectionUtils.cs:91)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:LoadAllSettingsClasses () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:39)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:Update () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:33)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:47:59 AM: [Log] Created initial copy of settings: InteractionLayerSettings at Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XRLoggingUtils:Log (string,UnityEngine.Object) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/XRLoggingUtils.cs:34)
+Unity.XR.CoreUtils.ScriptableSettingsBase`1<UnityEngine.XR.Interaction.Toolkit.InteractionLayerSettings>:Save (string) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:261)
+Unity.XR.CoreUtils.ScriptableSettings`1<UnityEngine.XR.Interaction.Toolkit.InteractionLayerSettings>:CreateAndLoad () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettings.cs:45)
+Unity.XR.CoreUtils.ScriptableSettings`1<UnityEngine.XR.Interaction.Toolkit.InteractionLayerSettings>:get_Instance () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettings.cs:25)
+System.Reflection.RuntimePropertyInfo:GetValue (object,object[])
+Unity.XR.CoreUtils.ScriptableSettingsBase:GetInstanceByType (System.Type) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:54)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer/<>c__DisplayClass3_0:<LoadAllSettingsClasses>b__0 (System.Reflection.Assembly) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:43)
+Unity.XR.CoreUtils.ReflectionUtils:ForEachAssembly (System.Action`1<System.Reflection.Assembly>) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ReflectionUtils.cs:91)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:LoadAllSettingsClasses () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:39)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:Update () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:33)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:47:59 AM: [Log] Created initial copy of settings: XRDeviceSimulatorSettings at Assets/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XRLoggingUtils:Log (string,UnityEngine.Object) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/XRLoggingUtils.cs:34)
+Unity.XR.CoreUtils.ScriptableSettingsBase`1<UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulatorSettings>:Save (string) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:261)
+Unity.XR.CoreUtils.ScriptableSettings`1<UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulatorSettings>:CreateAndLoad () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettings.cs:45)
+Unity.XR.CoreUtils.ScriptableSettings`1<UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulatorSettings>:get_Instance () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettings.cs:25)
+System.Reflection.RuntimePropertyInfo:GetValue (object,object[])
+Unity.XR.CoreUtils.ScriptableSettingsBase:GetInstanceByType (System.Type) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ScriptableSettingsBase.cs:54)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer/<>c__DisplayClass3_0:<LoadAllSettingsClasses>b__0 (System.Reflection.Assembly) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:43)
+Unity.XR.CoreUtils.ReflectionUtils:ForEachAssembly (System.Action`1<System.Reflection.Assembly>) (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Runtime/ReflectionUtils.cs:91)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:LoadAllSettingsClasses () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:39)
+Unity.XR.CoreUtils.Editor.Internal.ScriptableSettingsInitializer:Update () (at ./Library/PackageCache/com.unity.xr.core-utils@2.2.3/Editor/ScriptableSettingsInitializer.cs:33)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:48:02 AM: [Error] Unable to use a named GUIStyle without a current skin. Most likely you need to move your GUIStyle initialization code to OnGUI
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:48:02 AM: [Error] Unable to use a named GUIStyle without a current skin. Most likely you need to move your GUIStyle initialization code to OnGUI
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:48:03 AM: [Error] Cannot create Settings Providers for: CreateAllChildSettingsProviders
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+

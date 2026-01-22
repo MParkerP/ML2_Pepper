@@ -1,0 +1,21 @@
+Unity Editor session started at 9/8/2025 8:20:09 PM
+
+9/8/2025 8:20:27 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+
+9/8/2025 8:20:53 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:20:54 PM: [Log] Build completed with a result of 'Succeeded' in 33 seconds (33053 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:25:40 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+
+9/8/2025 8:25:41 PM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

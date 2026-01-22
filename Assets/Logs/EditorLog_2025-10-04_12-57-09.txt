@@ -1,0 +1,10 @@
+Unity Editor session started at 10/4/2025 12:57:09 PM
+
+Unity Editor session started at 10/4/2025 12:57:09 PM
+
+10/4/2025 12:57:10 PM: [Error] database is locked
+
+
+10/4/2025 12:57:10 PM: [Error] database is locked
+
+

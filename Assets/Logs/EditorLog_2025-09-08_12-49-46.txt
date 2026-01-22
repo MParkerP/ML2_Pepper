@@ -1,0 +1,16 @@
+Unity Editor session started at 9/8/2025 12:49:46 PM
+
+9/8/2025 1:37:01 PM: [Error] Assets\Scripts\CanDriver.cs(24,1): error CS1519: Invalid token '}' in class, record, struct, or interface member declaration
+
+
+9/8/2025 1:42:47 PM: [Error] Assets\Scripts\CanDriver.cs(52,47): error CS1002: ; expected
+
+
+9/8/2025 1:51:23 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+
+9/8/2025 1:51:24 PM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

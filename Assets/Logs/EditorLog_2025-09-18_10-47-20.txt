@@ -1,0 +1,7 @@
+Unity Editor session started at 9/18/2025 10:47:20 AM
+
+9/18/2025 10:47:21 AM: [Warning] Registering subsystem descriptor with duplicate ID 'MagicLeap-Raycast' - overwriting previous entry.
+UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor:RegisterDescriptor (UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor/Cinfo)
+MagicLeap.OpenXR.InteractionProfiles.MagicLeapControllerProfile/RaycastSubsystem:RegisterDescriptor () (at ./Library/PackageCache/com.magicleap.unitysdk@2.6.0/Runtime/OpenXR/MagicLeapControllerProfile.cs:512)
+
+

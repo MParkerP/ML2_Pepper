@@ -1,0 +1,5 @@
+Unity Editor session started at 9/8/2025 12:04:21 PM
+
+9/8/2025 12:33:59 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+

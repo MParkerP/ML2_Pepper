@@ -1,0 +1,107 @@
+Unity Editor session started at 12/17/2025 10:03:10 AM
+
+12/17/2025 10:05:50 AM: [Warning] Connection to Android device failed: Unable to reverse network traffic to device. Please make sure the Android SDK is installed and is properly configured in the Editor. See the Console for more details.
+C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\adb.exe -s "G572XT1001EV" reverse "tcp:55505" "tcp:55505"
+
+Environment Variables:
+PROCESSOR_ARCHITECTURE = AMD64
+AMPLITUDE_API_KEY_GREENBUCKET_PROD = c86fea37a9e1d3f0878b96e15b111c7c
+DriverData = C:\Windows\System32\Drivers\DriverData
+USERDOMAIN = DESKTOP-UL4FPDH
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+COMPUTERNAME = DESKTOP-UL4FPDH
+DEBUG_ENV_VAR = UnityHub
+LOGONSERVER = \\DESKTOP-UL4FPDH
+AMPLITUDE_TOKEN_GREENBUCKET_PROD = ZpUcbAdZXJYzNSoHsAWtL_s_JppwWid9
+AMPLITUDE_API_KEY_YELLOWBUCKET_DEV = 48835b4d1f5e342aefe5f016324d296a
+ProgramData = C:\ProgramData
+SESSIONNAME = Console
+AMPLITUDE_TOKEN_YELLOWBUCKET_PROD = UYDQtPOw83dIfVy3SrW5oMyo7ru4PRkV
+USERPROFILE = C:\Users\mpark
+ALLUSERSPROFILE = C:\ProgramData
+SystemRoot = C:\WINDOWS
+windir = C:\WINDOWS
+AMPLITUDE_API_KEY_REDBUCKET_DEV = 46b8b46515e7632fc42a504b72e05fd0
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+ChocolateyLastPathUpdate = 133734248135366800
+OS = Windows_NT
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD
+HOMEPATH = \Users\mpark
+FPS_BROWSER_USER_PROFILE_STRING = Default
+GIT_LFS_PATH = C:\Program Files\Git LFS
+ChocolateyInstall = C:\ProgramData\chocolatey
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_22140_HDIXVCIVMEYNVKEO
+PROCESSOR_LEVEL = 23
+AMPLITUDE_TOKEN_REDBUCKET_DEV = U4PSN7S7PuYVRODivvdcFwbu8R6IHGqa
+JAVA_TOOL_OPTIONS = -Dfile.encoding=UTF-8
+CommonProgramFiles = C:\Program Files\Common Files
+PUBLIC = C:\Users\Public
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-UL4FPDH
+TEMP = C:\Users\mpark\AppData\Local\Temp
+ProgramFiles = C:\Program Files
+CommonProgramW6432 = C:\Program Files\Common Files
+AMPLITUDE_TOKEN_YELLOWBUCKET_DEV = wKi8foVigDditGFvmZewRFWsEbX9Y0YO
+AMPLITUDE_API_KEY_GREENBUCKET_DEV = 3ded2a762163603391a425f688f990c8
+AMPLITUDE_API_KEY_REDBUCKET_PROD = ca12bb461ea96f9bdf5df4ded7d52994
+HOMEDRIVE = C:
+AMPLITUDE_API_KEY_STAGING = 83ee04fccc67e4fcc7dd527c4c6f1e21
+USERNAME = mpark
+OneDrive = C:\Users\mpark\OneDrive
+AMPLITUDE_API_KEY_YELLOWBUCKET_PROD = e03a9bbe92dc38a88cdb068d24c65b46
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+AMPLITUDE_TOKEN_REDBUCKET_PROD = jTIgKs5KTZOjiqEEVdZFbgo_VRhABduL
+__PSLockDownPolicy = 0
+NUMBER_OF_PROCESSORS = 16
+AMPLITUDE_TOKEN_GREENBUCKET_DEV = 84H2gMm_FJzhr3mBaX1lM1JVukmCM7d9
+AMPLITUDE_DEPLOYMENT_KEY_RED_BUCKET_DEV = client-wbjHYrmeSR87GmWOE7LDpf7sUySOIKHm
+ComSpec = C:\WINDOWS\system32\cmd.exe
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+PROCESSOR_REVISION = 0101
+AMPLITUDE_DEPLOYMENT_KEY_RED_BUCKET_PROD = client-zH8Y7OK1i331EKuG77C6UxN8ygcM6LzS
+TMP = C:\Users\mpark\AppData\Local\Temp
+SystemDrive = C:
+AMPLITUDE_API_KEY = 28f3cae0b33b8b3702120c9ed1a935aa
+SENTRY_ACCESS_TOKEN = 3df78d9e53f8456aa90fbae044ce1a6261421ab1d0014674bc2e933477289017
+APPDATA = C:\Users\mpark\AppData\Roaming
+Path = C:\Python312\Scripts\;C:\Python312\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Git LFS;C:\Program Files\Perforce\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Users\mpark\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\mpark\AppData\Local\Programs\Python\Python313\;C:\Python310\Scripts\;C:\Python310\;C:\Users\mpark\AppData\Local\Microsoft\WindowsApps;C:\Users\mpark\AppData\Roaming\npm;C:\Users\mpark\.dotnet\tools
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+LOCALAPPDATA = C:\Users\mpark\AppData\Local
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+WOOTRIC_CLIENT_TOKEN = NPS-aa8be4c3
+
+
+stderr[
+adb.exe: error: device 'G572XT1001EV' not found
+]
+stdout[
+
+]
+exit code: 1
+UnityEditor.EditorApplication:Internal_InvokeTickEvents ()
+
+
+12/17/2025 10:05:53 AM: [Log] Joystick connected ("DualSense Wireless Controller").
+
+
+12/17/2025 10:05:53 AM: [Error] Could not create a device for 'Sony Interactive Entertainment DualSense Wireless Controller (HID)' (exception: System.InvalidOperationException: Cannot instantiate device layout 'Dpad' as child of '/DualSenseGamepadHID'; devices must be added at root
+  at UnityEngine.InputSystem.Layouts.InputDeviceBuilder.InstantiateLayout (UnityEngine.InputSystem.Layouts.InputControlLayout layout, UnityEngine.InputSystem.Utilities.InternedString variants, UnityEngine.InputSystem.Utilities.InternedString name, UnityEngine.InputSystem.InputControl parent) [0x002e2] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\Devices\InputDeviceBuilder.cs:237 
+  at UnityEngine.InputSystem.Layouts.InputDeviceBuilder.InstantiateLayout (UnityEngine.InputSystem.Utilities.InternedString layout, UnityEngine.InputSystem.Utilities.InternedString variants, UnityEngine.InputSystem.Utilities.InternedString name, UnityEngine.InputSystem.InputControl parent) [0x0000c] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\Devices\InputDeviceBuilder.cs:110 
+  at UnityEngine.InputSystem.Layouts.InputDeviceBuilder.AddChildControl (UnityEngine.InputSystem.Layouts.InputControlLayout layout, UnityEngine.InputSystem.Utilities.InternedString variants, UnityEngine.InputSystem.InputControl parent, System.Boolean& haveChildrenUsingStateFromOtherControls, UnityEngine.InputSystem.Layouts.InputControlLayout+ControlItem controlItem, System.Int32 childIndex, System.String nameOverride) [0x00085] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\Devices\InputDeviceBuilder.cs:395 
+  at UnityEngine.InputSystem.Layouts.InputDeviceBuilder.AddChildControls (UnityEngine.InputSystem.Layouts.InputControlLayout layout, UnityEngine.InputSystem.Utilities.InternedString variants, UnityEngine.InputSystem.InputControl parent, System.Boolean& haveChildrenUsingStateFromOtherControls) [0x001f6] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\Devices\InputDeviceBuilder.cs:333 
+  at UnityEngine.InputSystem.Layouts.InputDeviceBuilder.InstantiateLayout (UnityEngine.InputSystem.Layouts.InputControlLayout layout, UnityEngine.InputSystem.Utilities.InternedString variants, UnityEngine.InputSystem.Utilities.InternedString name, UnityEngine.InputSystem.InputControl parent) [0x0029a] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\Devices\InputDeviceBuilder.cs:217 
+  at UnityEngine.InputSystem.Layouts.InputDeviceBuilder.InstantiateLayout (UnityEngine.InputSystem.Utilities.InternedString layout, UnityEngine.InputSystem.Utilities.InternedString variants, UnityEngine.InputSystem.Utilities.InternedString name, UnityEngine.InputSystem.InputControl parent) [0x0000c] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\Devices\InputDeviceBuilder.cs:110 
+  at UnityEngine.InputSystem.Layouts.InputDeviceBuilder.Setup (UnityEngine.InputSystem.Utilities.InternedString layout, UnityEngine.InputSystem.Utilities.InternedString variants, UnityEngine.InputSystem.Layouts.InputDeviceDescription deviceDescription) [0x0000b] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\Devices\InputDeviceBuilder.cs:52 
+  at UnityEngine.InputSystem.InputDevice.Build[TDevice] (System.String layoutName, System.String layoutVariants, UnityEngine.InputSystem.Layouts.InputDeviceDescription deviceDescription, System.Boolean noPrecompiledLayouts) [0x0007b] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\Devices\InputDevice.cs:955 
+  at UnityEngine.InputSystem.InputManager.AddDevice (UnityEngine.InputSystem.Utilities.InternedString layout, System.Int32 deviceId, System.String deviceName, UnityEngine.InputSystem.Layouts.InputDeviceDescription deviceDescription, UnityEngine.InputSystem.InputDevice+DeviceFlags deviceFlags, UnityEngine.InputSystem.Utilities.InternedString variants) [0x00000] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\InputManager.cs:1145 
+  at UnityEngine.InputSystem.InputManager.AddDevice (UnityEngine.InputSystem.Layouts.InputDeviceDescription description, System.Boolean throwIfNoLayoutFound, System.String deviceName, System.Int32 deviceId, UnityEngine.InputSystem.InputDevice+DeviceFlags deviceFlags) [0x00062] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\InputManager.cs:1308 
+  at UnityEngine.InputSystem.InputManager.OnNativeDeviceDiscovered (System.Int32 deviceId, System.String deviceDescriptor) [0x000c4] in .\Library\PackageCache\com.unity.inputsystem@1.8.2\InputSystem\InputManager.cs:2393 )
+UnityEngine.InputSystem.InputManager:OnNativeDeviceDiscovered (int,string)
+UnityEngineInternal.Input.NativeInputSystem:NotifyDeviceDiscovered (int,string)
+
+
+12/17/2025 10:06:17 AM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

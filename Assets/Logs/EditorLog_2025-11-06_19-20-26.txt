@@ -1,0 +1,24 @@
+Unity Editor session started at 11/6/2025 7:20:26 PM
+
+11/6/2025 7:20:28 PM: [Error] Problem detected while importing the Prefab file: 'Assets/Prefabs/Prometheus.prefab'.
+The file might be corrupt or have a missing Variant parent or nested Prefabs. See details below.
+Errors:
+	Prefab instance problem: 'RightTireSkid (Missing Prefab with guid: ab4ea67cd9337c341af0bd7182c60f92)'. 2 instances are missing the same Prefab Asset with guid ab4ea67cd9337c341af0bd7182c60f92.
+	Prefab instance problem: 'LeftTireSmoke_PS (Missing Prefab with guid: ddf4ea2625767fd4bb4153e7e4009ad5)'. 2 instances are missing the same Prefab Asset with guid ddf4ea2625767fd4bb4153e7e4009ad5.
+
+
+
+11/6/2025 7:20:28 PM: [Error] Problem detected while importing the Prefab file: 'Assets/Prefabs 1/AnchorWithRocketRegular.prefab'.
+The file might be corrupt or have a missing Variant parent or nested Prefabs. See details below.
+Errors:
+	Nested Prefab problem. Missing Nested Prefab Asset: 'SpaceX_Starship (Missing Prefab with guid: be3137e2cf6a046789f5d529852dc87d)'
+
+
+
+11/6/2025 7:20:28 PM: [Error] Problem detected while importing the Prefab file: 'Assets/Prefabs 1/AnchorWithRocketLarge.prefab'.
+The file might be corrupt or have a missing Variant parent or nested Prefabs. See details below.
+Errors:
+	Nested Prefab problem. Missing Nested Prefab Asset: 'SpaceX_Starship (Missing Prefab with guid: be3137e2cf6a046789f5d529852dc87d)'
+
+
+

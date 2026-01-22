@@ -1,0 +1,14 @@
+Unity Editor session started at 10/4/2025 12:11:23 PM
+
+Unity Editor session started at 10/4/2025 12:11:23 PM
+
+Unity Editor session started at 10/4/2025 12:11:23 PM
+
+Unity Editor session started at 10/4/2025 12:11:23 PM
+
+10/4/2025 12:11:23 PM: [Error] database is locked
+
+
+10/4/2025 12:11:23 PM: [Error] Failed to delete database file Library/ShaderCache.db
+
+

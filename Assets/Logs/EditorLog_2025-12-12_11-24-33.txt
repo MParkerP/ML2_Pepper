@@ -1,0 +1,12 @@
+Unity Editor session started at 12/12/2025 11:24:33 AM
+
+12/12/2025 11:24:35 AM: [Warning] Registering subsystem descriptor with duplicate ID 'MagicLeap-Raycast' - overwriting previous entry.
+UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor:RegisterDescriptor (UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor/Cinfo)
+MagicLeap.OpenXR.InteractionProfiles.MagicLeapControllerProfile/RaycastSubsystem:RegisterDescriptor () (at ./Library/PackageCache/com.magicleap.unitysdk@2.6.0/Runtime/OpenXR/MagicLeapControllerProfile.cs:512)
+
+
+12/12/2025 11:42:59 AM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

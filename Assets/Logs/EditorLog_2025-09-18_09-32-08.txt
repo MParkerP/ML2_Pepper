@@ -1,0 +1,11 @@
+Unity Editor session started at 9/18/2025 9:32:08 AM
+
+9/18/2025 9:32:34 AM: [Warning] Asset 'PepperAnimationController': Transition 'FootTapping -> Idle' in state 'FootTapping' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/18/2025 9:33:18 AM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

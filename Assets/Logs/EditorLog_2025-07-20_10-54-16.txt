@@ -1,0 +1,48 @@
+Unity Editor session started at 7/20/2025 10:54:16 AM
+
+7/20/2025 10:54:18 AM: [Warning] GUID [bb4daeceea261404d9e9069323220d1b] for asset 'Assets/MagicLeapInput.inputactions' conflicts with:
+  'Assets/Samples/Magic Leap SDK/2.6.0/ML Rig & OpenXR Input/MagicLeapOpenXRInput.inputactions' (current owner)
+Assigning a new guid.
+
+
+
+7/20/2025 10:54:18 AM: [Warning] GUID [bb4daeceea261404d9e9069323220d1b] for asset 'Assets/MagicLeapInput.inputactions' conflicts with:
+  'Assets/Samples/Magic Leap SDK/2.6.0/ML Rig & OpenXR Input/MagicLeapOpenXRInput.inputactions' (current owner)
+Assigning a new guid.
+
+
+
+7/20/2025 10:54:18 AM: [Warning] GUID [bb4daeceea261404d9e9069323220d1b] for asset 'Assets/MagicLeapInput.inputactions' conflicts with:
+  'Assets/Samples/Magic Leap SDK/2.6.0/ML Rig & OpenXR Input/MagicLeapOpenXRInput.inputactions' (current owner)
+Assigning a new guid.
+
+
+
+7/20/2025 10:54:18 AM: [Warning] GUID [bb4daeceea261404d9e9069323220d1b] for asset 'Assets/MagicLeapInput.inputactions' conflicts with:
+  'Assets/Samples/Magic Leap SDK/2.6.0/ML Rig & OpenXR Input/MagicLeapOpenXRInput.inputactions' (current owner)
+Assigning a new guid.
+
+
+
+7/20/2025 10:54:19 AM: [Warning] GUID [bb4daeceea261404d9e9069323220d1b] for asset 'Assets/MagicLeapInput.inputactions' conflicts with:
+  'Assets/Samples/Magic Leap SDK/2.6.0/ML Rig & OpenXR Input/MagicLeapOpenXRInput.inputactions' (current owner)
+Assigning a new guid.
+
+
+
+7/20/2025 10:54:19 AM: [Warning] GUID [bb4daeceea261404d9e9069323220d1b] for asset 'Assets/MagicLeapInput.inputactions' conflicts with:
+  'Assets/Samples/Magic Leap SDK/2.6.0/ML Rig & OpenXR Input/MagicLeapOpenXRInput.inputactions' (current owner)
+Assigning a new guid.
+
+
+
+7/20/2025 10:54:40 AM: [Error] [Package Manager Window] Error searching for packages.
+connect ETIMEDOUT 34.36.199.114:443
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 2:34:21 PM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

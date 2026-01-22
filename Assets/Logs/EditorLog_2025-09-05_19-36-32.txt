@@ -1,0 +1,29 @@
+Unity Editor session started at 9/5/2025 7:36:32 PM
+
+9/5/2025 7:43:51 PM: [Error] Assets\Scripts\PlanePrefabExample.cs(14,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'PlanePrefabExample'
+
+
+9/5/2025 7:43:51 PM: [Error] Assets\Scripts\PlanePrefabExample.cs(21,18): error CS0111: Type 'PlanePrefabExample' already defines a member called 'Start' with the same parameter types
+
+
+9/5/2025 7:43:51 PM: [Error] Assets\Scripts\PlanePrefabExample.cs(32,18): error CS0111: Type 'PlanePrefabExample' already defines a member called 'ColorClassify' with the same parameter types
+
+
+9/5/2025 7:44:20 PM: [Error] Error while saving Prefab: 'Assets/Prefabs/PlanePrefabEx.prefab'. You are trying to save a Prefab with a missing script. This is not allowed.
+Please change the script or remove it from the GameObject 'PlanePrefabEx'.
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+9/5/2025 7:44:27 PM: [Error] Error while saving Prefab: 'Assets/Prefabs/PlanePrefabEx.prefab'. You are trying to save a Prefab with a missing script. This is not allowed.
+Please change the script or remove it from the GameObject 'PlanePrefabEx'.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/5/2025 7:44:49 PM: [Error] Error while saving Prefab: 'Assets/Prefabs/PlanePrefabEx.prefab'. You are trying to save a Prefab that contains the script '', which does not derive from MonoBehaviour. This is not allowed.
+Please change the script to derive from MonoBehaviour or remove it from the GameObject 'PlanePrefabEx'.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/5/2025 7:45:24 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+

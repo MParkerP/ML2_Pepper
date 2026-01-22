@@ -1,0 +1,31 @@
+Unity Editor session started at 12/7/2025 9:30:54 PM
+
+12/7/2025 9:30:58 PM: [Warning] Joystick disconnected ("DualSense Wireless Controller").
+
+
+12/7/2025 9:30:59 PM: [Warning] Registering subsystem descriptor with duplicate ID 'MagicLeap-Raycast' - overwriting previous entry.
+UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor:RegisterDescriptor (UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor/Cinfo)
+MagicLeap.OpenXR.InteractionProfiles.MagicLeapControllerProfile/RaycastSubsystem:RegisterDescriptor () (at ./Library/PackageCache/com.magicleap.unitysdk@2.6.0/Runtime/OpenXR/MagicLeapControllerProfile.cs:512)
+
+
+12/7/2025 9:31:03 PM: [Log] Joystick reconnected ("DualSense Wireless Controller").
+
+
+12/7/2025 9:31:28 PM: [Warning] Joystick disconnected ("DualSense Wireless Controller").
+
+
+12/7/2025 9:31:29 PM: [Log] Joystick reconnected ("DualSense Wireless Controller").
+
+
+12/7/2025 9:31:30 PM: [Warning] Joystick disconnected ("DualSense Wireless Controller").
+
+
+12/7/2025 9:31:30 PM: [Log] Joystick reconnected ("DualSense Wireless Controller").
+
+
+12/7/2025 9:31:33 PM: [Warning] Joystick disconnected ("DualSense Wireless Controller").
+
+
+12/7/2025 9:31:39 PM: [Log] Joystick reconnected ("DualSense Wireless Controller").
+
+

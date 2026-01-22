@@ -1,0 +1,23 @@
+Unity Editor session started at 7/20/2025 10:45:07 AM
+
+7/20/2025 10:46:48 AM: [Error] Failed to resolve packages: An operation that requires exclusive access to a resource ([C:/Users/mpark/Desktop/ML2_Prototype2/Packages]) is already running and must be completed before another can be started.. No packages loaded.
+
+
+7/20/2025 10:47:10 AM: [Error] Unable to add package [com.magicleap.unitysdk]:
+  An operation that requires exclusive access to a resource ([C:/Users/mpark/Desktop/ML2_Prototype2/Packages]) is already running and must be completed before another can be started.
+UnityEngine.Debug:LogError (object)
+MagicLeap.SetupTool.Editor.Utilities.MagicLeapRegistryPackageImporter/<>c__DisplayClass10_0:<InstallMlsdkPackage>g__AddPackageProgress|0 () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/Utilities/MagicLeapRegistryPackageImporter.cs:104)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+7/20/2025 10:47:10 AM: [Error] Failed to import com.magicleap.unitysdk.
+UnityEngine.Debug:LogError (object)
+MagicLeap.SetupTool.Editor.Setup.ImportMagicLeapSdkStep/<AddRegistryAndImport>d__81:MoveNext () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/SetupSteps/ImportMagicLeapSdkStep.cs:634)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<bool>:SetResult (bool)
+MagicLeap.SetupTool.Editor.Utilities.MagicLeapRegistryPackageImporter/<InstallSdkPackage>d__7:MoveNext () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/Utilities/MagicLeapRegistryPackageImporter.cs:60)
+System.Threading.Tasks.TaskCompletionSource`1<bool>:SetResult (bool)
+MagicLeap.SetupTool.Editor.Utilities.MagicLeapRegistryPackageImporter/<>c__DisplayClass7_0:<InstallSdkPackage>b__0 (bool) (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/Utilities/MagicLeapRegistryPackageImporter.cs:57)
+MagicLeap.SetupTool.Editor.Utilities.MagicLeapRegistryPackageImporter/<>c__DisplayClass10_0:<InstallMlsdkPackage>g__AddPackageProgress|0 () (at ./Packages/com.magicleap.setuptool/Editor/SetupProcess/Utilities/MagicLeapRegistryPackageImporter.cs:107)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+

@@ -1,0 +1,60 @@
+Unity Editor session started at 10/10/2025 10:28:51 AM
+
+10/10/2025 1:32:21 PM: [Error] GUI Error: Invalid GUILayout state in BuildPlayerWindow view. Verify that all layout Begin/End calls match
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 1:32:21 PM: [Exception] ArgumentException: Getting control 1's position in a group with only 1 controls when doing repaint
+Aborting
+UnityEngine.GUILayoutGroup.GetNext () (at <d26551307ee24906965335845380d4a1>:0)
+UnityEngine.GUILayoutUtility.DoGetRect (UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) (at <d26551307ee24906965335845380d4a1>:0)
+UnityEngine.GUILayoutUtility.GetRect (UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) (at <d26551307ee24906965335845380d4a1>:0)
+UnityEngine.GUILayout.DoButton (UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) (at <d26551307ee24906965335845380d4a1>:0)
+UnityEngine.GUILayout.Button (System.String text, UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) (at <d26551307ee24906965335845380d4a1>:0)
+UnityEditor.Android.AndroidBuildWindowExtension.DoTargetListUnsafe () (at <6542399aa1cb4f1c8de3e43116fd1b96>:0)
+UnityEditor.Android.AndroidBuildWindowExtension.DoTargetList () (at <6542399aa1cb4f1c8de3e43116fd1b96>:0)
+UnityEditor.Android.AndroidBuildWindowExtension.ShowPlatformBuildOptions () (at <6542399aa1cb4f1c8de3e43116fd1b96>:0)
+UnityEditor.BuildPlayerWindow.ShowBuildTargetSettings () (at <5e6ebaa7d75c4d5399dc81ecead6b43f>:0)
+UnityEditor.BuildPlayerWindow.OnGUI () (at <5e6ebaa7d75c4d5399dc81ecead6b43f>:0)
+UnityEditor.HostView.InvokeOnGUI (UnityEngine.Rect onGUIPosition) (at <5e6ebaa7d75c4d5399dc81ecead6b43f>:0)
+UnityEditor.DockArea.DrawView (UnityEngine.Rect dockAreaRect) (at <5e6ebaa7d75c4d5399dc81ecead6b43f>:0)
+UnityEditor.DockArea.OldOnGUI () (at <5e6ebaa7d75c4d5399dc81ecead6b43f>:0)
+UnityEngine.UIElements.IMGUIContainer.DoOnGUI (UnityEngine.Event evt, UnityEngine.Matrix4x4 parentTransform, UnityEngine.Rect clippingRect, System.Boolean isComputingLayout, UnityEngine.Rect layoutSize, System.Action onGUIHandler, System.Boolean canAffectFocus) (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.IMGUIContainer.HandleIMGUIEvent (UnityEngine.Event e, UnityEngine.Matrix4x4 worldTransform, UnityEngine.Rect clippingRect, System.Action onGUIHandler, System.Boolean canAffectFocus) (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.IMGUIContainer.DoIMGUIRepaint () (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.UIR.RenderChainCommand.ExecuteNonDrawMesh (UnityEngine.UIElements.UIR.DrawParams drawParams, System.Single pixelsPerPoint, System.Exception& immediateException) (at <383db090fd544f24b368fd389016a28f>:0)
+Rethrow as ImmediateModeException
+UnityEngine.UIElements.UIR.RenderChain.Render () (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.UIRRepaintUpdater.Update () (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.VisualTreeUpdater.UpdateVisualTreePhase (UnityEngine.UIElements.VisualTreeUpdatePhase phase) (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.Panel.UpdateForRepaint () (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.Panel.Repaint (UnityEngine.Event e) (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.UIElementsUtility.DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel panel) (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.UIElementsUtility.UnityEngine.UIElements.IUIElementsUtility.ProcessEvent (System.Int32 instanceID, System.IntPtr nativeEventPtr, System.Boolean& eventHandled) (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.UIEventRegistration.ProcessEvent (System.Int32 instanceID, System.IntPtr nativeEventPtr) (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.UIElements.UIEventRegistration+<>c.<.cctor>b__1_2 (System.Int32 i, System.IntPtr ptr) (at <383db090fd544f24b368fd389016a28f>:0)
+UnityEngine.GUIUtility.ProcessEvent (System.Int32 instanceID, System.IntPtr nativeEventPtr, System.Boolean& result) (at <d26551307ee24906965335845380d4a1>:0)
+
+
+10/10/2025 1:32:33 PM: [Warning] Shader warning in 'Custom/URP_TransparentShadowCollector': pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them at line 72 (on d3d11)
+
+Compiling Subshader: 0, Pass: ForwardLit, Fragment program with _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS
+Platform defines: SHADER_API_MOBILE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_RGBM_ENCODING UNITY_NO_CUBEMAP_ARRAY UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2
+Disabled keywords: SHADER_API_GLES30 UNITY_COLORSPACE_GAMMA UNITY_ENABLE_DETAIL_NORMALMAP UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS_VERTEX _MAIN_LIGHT_SHADOWS_CASCADE _SCREEN_SPACE_OCCLUSION _SHADOWS_SOFT
+
+
+10/10/2025 1:32:33 PM: [Warning] Shader warning in 'Custom/URP_TransparentShadowCollector': pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them at line 72 (on vulkan)
+
+Compiling Subshader: 0, Pass: ForwardLit, Vertex program with _MAIN_LIGHT_SHADOWS
+Platform defines: SHADER_API_MOBILE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_RGBM_ENCODING UNITY_NO_CUBEMAP_ARRAY UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION
+Disabled keywords: SHADER_API_GLES30 UNITY_COLORSPACE_GAMMA UNITY_ENABLE_DETAIL_NORMALMAP UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF2 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _MAIN_LIGHT_SHADOWS_CASCADE
+
+
+10/10/2025 1:32:56 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+10/10/2025 1:32:57 PM: [Log] Build completed with a result of 'Succeeded' in 33 seconds (32992 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+

@@ -1,0 +1,106 @@
+Unity Editor session started at 8/30/2025 10:01:01 PM
+
+9/3/2025 7:26:57 PM: [Warning] Connection to Android device failed: Unable to reverse network traffic to device. Please make sure the Android SDK is installed and is properly configured in the Editor. See the Console for more details.
+C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\adb.exe -s "G572XT1001EV" reverse "tcp:55504" "tcp:55504"
+
+Environment Variables:
+EFC_28972_1592913036 = 1
+NVIDIAWHITELISTED = 0x01
+CUDA_PATH_V12_6 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6
+BURST_ANDROID_MIN_API_LEVEL = 22
+ProgramFiles = C:\Program Files
+TMP = C:\Users\mpark\AppData\Local\Temp
+OPEN_NI_BIN64 = C:\Program Files\OpenNI\Bin64
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+OS = Windows_NT
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_58904_WEMENRUFBQTSPURG
+EFC_28972_2775293581 = 1
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+PROCESSOR_REVISION = b701
+CUDA_PATH = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6
+ProgramW6432 = C:\Program Files
+OculusBase = C:\Program Files\Oculus\
+USERPROFILE = C:\Users\mpark
+JAVA_HOME = C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK
+CommonProgramFiles = C:\Program Files\Common Files
+DriverData = C:\Windows\System32\Drivers\DriverData
+ComSpec = C:\WINDOWS\system32\cmd.exe
+OPEN_NI_LIB64 = C:\Program Files\OpenNI\Lib64
+USERDOMAIN = MSI
+ANDROID_NDK_ROOT = C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+SystemRoot = C:\WINDOWS
+IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAobQUQKETRUS7CeIgdpCnKgQAAAACAAAAAAAQZgAAAAEAACAAAABubTFn8NJIihoEjFvwaJpCj9D6anX9xf1oiUS99u+dDQAAAAAOgAAAAAIAACAAAACcvA4y3iOuMUyvXMwa/VQeybF6fE15afy39YbrbqNz/mAAAAB6kRVEyYU2h3WhHyZPiVvV3O4jXdjgfJg//Dr2z7vks/cZ9Y/AGAjg97EsjXCclwbdLnf4anJ9D22EPdnAjAhwboBm2tzEGpT3+hM/sSuNo2U63X0aiQJ41P7XNIVRlp1AAAAAhoeXciZy3D9F/b+PEsv8npN5jdNPGq9kJwwm9HjgL+RKXHzNlhgfvFNblGWC3OqCEcScZd3dbaF/V6DW3vrJ0w==
+OPEN_NI_INCLUDE = C:\Program Files\OpenNI\Include
+OPEN_NI_INSTALL_PATH64 = C:\Program Files\OpenNI\
+EFC_28972_2283032206 = 1
+JAVA_TOOL_OPTIONS = -Dfile.encoding=UTF-8
+EFC_28972_1262719628 = 1
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+HOMEDRIVE = C:
+TEMP = C:\Users\mpark\AppData\Local\Temp
+Path = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\libnvvp;C:\Program Files\Oculus\Support\oculus-runtime;C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.3.2\;C:\Program Files\Perforce\;C:\Program Files\OpenNI\Bin64;C:\Program Files\Nuitrack\nuitrack\nuitrack\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\mpark\AppData\Local\Microsoft\WindowsApps;C:\Users\mpark\AppData\Local\Muse Hub\lib;C:\Users\mpark\.dotnet\tools
+EFC_28972_3789132940 = 1
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+COMPUTERNAME = MSI
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+ALLUSERSPROFILE = C:\ProgramData
+SystemDrive = C:
+windir = C:\WINDOWS
+__PSLockDownPolicy = 0
+PROCESSOR_ARCHITECTURE = AMD64
+NUITRACK_HOME = C:\Program Files\Nuitrack\nuitrack\nuitrack
+FPS_BROWSER_USER_PROFILE_STRING = Default
+ZES_ENABLE_SYSMAN = 1
+PUBLIC = C:\Users\Public
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+USERNAME = mpark
+OneDrive = C:\Users\mpark\OneDrive
+PROCESSOR_LEVEL = 6
+CommonProgramW6432 = C:\Program Files\Common Files
+ProgramFiles(x86) = C:\Program Files (x86)
+APPDATA = C:\Users\mpark\AppData\Roaming
+SESSIONNAME = Console
+LOGONSERVER = \\MSI
+LOCALAPPDATA = C:\Users\mpark\AppData\Local
+configsetroot = C:\WINDOWS\ConfigSetRoot
+HOMEPATH = \Users\mpark
+SHIM_MCCOMPAT = 0x810000001
+USERDOMAIN_ROAMINGPROFILE = MSI
+ProgramData = C:\ProgramData
+NUMBER_OF_PROCESSORS = 32
+
+
+stderr[
+adb.exe: error: device 'G572XT1001EV' not found
+]
+stdout[
+
+]
+exit code: 1
+UnityEditor.EditorApplication:Internal_InvokeTickEvents ()
+
+
+9/3/2025 8:32:36 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+
+9/3/2025 8:34:05 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/3/2025 8:34:06 PM: [Log] Build completed with a result of 'Succeeded' in 107 seconds (106592 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/3/2025 8:50:02 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/3/2025 8:50:03 PM: [Log] Build completed with a result of 'Succeeded' in 33 seconds (32647 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/3/2025 8:53:18 PM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

@@ -1,0 +1,22 @@
+Unity Editor session started at 9/5/2025 7:45:26 PM
+
+9/5/2025 7:55:01 PM: [Warning] Script attached to 'PlanePrefabExample' in scene '' is missing or no valid script is attached.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/5/2025 7:55:29 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/5/2025 7:55:30 PM: [Log] Build completed with a result of 'Succeeded' in 36 seconds (35831 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/5/2025 8:13:31 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+
+9/5/2025 8:13:31 PM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

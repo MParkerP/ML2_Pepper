@@ -1,0 +1,45 @@
+Unity Editor session started at 9/8/2025 7:38:36 PM
+
+9/8/2025 7:40:52 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+
+9/8/2025 7:41:19 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 7:41:20 PM: [Log] Build completed with a result of 'Succeeded' in 33 seconds (33403 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 7:43:33 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 7:43:34 PM: [Log] Build completed with a result of 'Succeeded' in 20 seconds (19942 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 7:48:59 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 7:49:00 PM: [Log] Build completed with a result of 'Succeeded' in 20 seconds (19533 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 7:55:10 PM: [Log] Application installed to device "G572XT1001EV [Magic Leap 2]".
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 7:55:11 PM: [Log] Build completed with a result of 'Succeeded' in 14 seconds (13902 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+9/8/2025 8:01:45 PM: [Warning] Assets\LearnXR\Core\Scripts\Logger.cs(25,22): warning CS0414: The field 'Logger.isVisible' is assigned but its value is never used
+
+
+9/8/2025 8:01:46 PM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

@@ -1,0 +1,45 @@
+Unity Editor session started at 12/12/2025 4:01:29 PM
+
+12/12/2025 4:01:32 PM: [Warning] Registering subsystem descriptor with duplicate ID 'MagicLeap-Raycast' - overwriting previous entry.
+UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor:RegisterDescriptor (UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor/Cinfo)
+MagicLeap.OpenXR.InteractionProfiles.MagicLeapControllerProfile/RaycastSubsystem:RegisterDescriptor () (at ./Library/PackageCache/com.magicleap.unitysdk@2.6.0/Runtime/OpenXR/MagicLeapControllerProfile.cs:512)
+
+
+12/12/2025 4:01:34 PM: [Log] Joystick reconnected ("DualSense Wireless Controller").
+
+
+12/12/2025 4:01:47 PM: [Log] Jump pressed
+UnityEngine.Debug:Log (object)
+PepperController:OnJump (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/Scripts/PepperController.cs:45)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+
+12/12/2025 4:01:50 PM: [Log] Jump pressed
+UnityEngine.Debug:Log (object)
+PepperController:OnJump (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/Scripts/PepperController.cs:45)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+
+12/12/2025 4:01:53 PM: [Log] Jump pressed
+UnityEngine.Debug:Log (object)
+PepperController:OnJump (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/Scripts/PepperController.cs:45)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+
+12/12/2025 4:01:56 PM: [Log] Jump pressed
+UnityEngine.Debug:Log (object)
+PepperController:OnJump (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/Scripts/PepperController.cs:45)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+
+12/12/2025 4:01:59 PM: [Log] Jump pressed
+UnityEngine.Debug:Log (object)
+PepperController:OnJump (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/Scripts/PepperController.cs:45)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+

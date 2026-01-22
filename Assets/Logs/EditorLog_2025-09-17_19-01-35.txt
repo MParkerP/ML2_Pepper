@@ -1,0 +1,28 @@
+Unity Editor session started at 9/17/2025 7:01:35 PM
+
+9/17/2025 7:01:36 PM: [Warning] Registering subsystem descriptor with duplicate ID 'MagicLeap-Raycast' - overwriting previous entry.
+UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor:RegisterDescriptor (UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor/Cinfo)
+MagicLeap.OpenXR.InteractionProfiles.MagicLeapControllerProfile/RaycastSubsystem:RegisterDescriptor () (at ./Library/PackageCache/com.magicleap.unitysdk@2.6.0/Runtime/OpenXR/MagicLeapControllerProfile.cs:512)
+
+
+9/17/2025 7:01:36 PM: [Warning] No active UnityEngine.XR.ARSubsystems.XRSessionSubsystem is available. This feature is either not supported on the current platform, or you may need to enable a provider in <b>Project Settings</b> > <b>XR Plug-in Management</b>.
+UnityEngine.XR.ARFoundation.ARSession:OnEnable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Runtime/ARFoundation/ARSession.cs:342)
+
+
+9/17/2025 7:01:36 PM: [Warning] No active UnityEngine.XR.XRMeshSubsystem is available. Please ensure that a valid loader configuration exists in the XR project settings and that meshing is supported.
+UnityEngine.XR.ARFoundation.ARMeshManager:OnEnable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Runtime/ARFoundation/ARMeshManager.cs:223)
+
+
+9/17/2025 7:01:36 PM: [Warning] No active UnityEngine.XR.ARSubsystems.XRAnchorSubsystem is available. This feature is either not supported on the current platform, or you may need to enable a provider in <b>Project Settings</b> > <b>XR Plug-in Management</b>.
+UnityEngine.XR.ARFoundation.ARTrackableManager`5<UnityEngine.XR.ARSubsystems.XRAnchorSubsystem, UnityEngine.XR.ARSubsystems.XRAnchorSubsystemDescriptor, UnityEngine.XR.ARSubsystems.XRAnchorSubsystem/Provider, UnityEngine.XR.ARSubsystems.XRAnchor, UnityEngine.XR.ARFoundation.ARAnchor>:OnEnable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Runtime/ARFoundation/ARTrackableManager.cs:106)
+
+
+9/17/2025 7:01:36 PM: [Warning] No active UnityEngine.XR.ARSubsystems.XRRaycastSubsystem is available. This feature is either not supported on the current platform, or you may need to enable a provider in <b>Project Settings</b> > <b>XR Plug-in Management</b>.
+UnityEngine.XR.Interaction.Toolkit.XRRayInteractor:Awake () (at ./Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.2/Runtime/Interaction/Interactors/XRRayInteractor.cs:942)
+
+
+9/17/2025 7:01:52 PM: [Warning] Saving has no effect. Your class 'UnityEditor.XR.Simulation.XREnvironmentViewManager' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEditor.XR.Simulation.XREnvironmentViewManager:OnDisable () (at ./Library/PackageCache/com.unity.xr.arfoundation@5.1.1/Editor/Simulation/XREnvironmentViewManager.cs:169)
+
+

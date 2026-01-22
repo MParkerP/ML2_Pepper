@@ -1,0 +1,227 @@
+Unity Editor session started at 11/21/2025 9:20:52 AM
+
+11/21/2025 10:09:20 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:09:33 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:09:42 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:16:39 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:18:12 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:18:16 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:18:36 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:19:10 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:22:41 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:23:19 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 10:23:28 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:10:07 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:12:08 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:14:38 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:14:40 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:17:36 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:17:38 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:20:27 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:20:29 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:23:08 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:28:53 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:29:03 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:29:06 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:29:10 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:29:15 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:29:40 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:29:42 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:29:52 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:31:37 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:32:19 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:32:21 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:32:32 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:32:33 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:32:41 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:32:53 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:50:23 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 11:50:31 AM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 12:21:58 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 12:27:22 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 12:27:23 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 12:27:30 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 12:27:33 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 12:28:48 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 12:30:24 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+
+11/21/2025 12:30:59 PM: [Warning] Saving has no effect. Your class 'UnityEditor.AvatarPreviewSelection' is missing the FilePathAttribute. Use this attribute to specify where to save your ScriptableSingleton.
+Only call Save() and use this attribute if you want your state to survive between sessions of Unity.
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+

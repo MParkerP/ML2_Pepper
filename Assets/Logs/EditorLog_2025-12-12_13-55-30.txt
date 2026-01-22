@@ -1,0 +1,117 @@
+Unity Editor session started at 12/12/2025 1:55:30 PM
+
+12/12/2025 1:55:32 PM: [Warning] Registering subsystem descriptor with duplicate ID 'MagicLeap-Raycast' - overwriting previous entry.
+UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor:RegisterDescriptor (UnityEngine.XR.ARSubsystems.XRRaycastSubsystemDescriptor/Cinfo)
+MagicLeap.OpenXR.InteractionProfiles.MagicLeapControllerProfile/RaycastSubsystem:RegisterDescriptor () (at ./Library/PackageCache/com.magicleap.unitysdk@2.6.0/Runtime/OpenXR/MagicLeapControllerProfile.cs:512)
+
+
+12/12/2025 1:55:37 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:38 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:39 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:40 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:44 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:44 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:45 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:46 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:47 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:48 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:50 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:51 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:52 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:53 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:54 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:54 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:55 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:56 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:57 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:58 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:55:59 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
+12/12/2025 1:56:00 PM: [Log] did something cool
+UnityEngine.Debug:Log (object)
+PepperController:Jump_event () (at Assets/Scripts/PepperController.cs:39)
+
+
