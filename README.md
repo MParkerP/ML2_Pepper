@@ -9,7 +9,8 @@ https://youtu.be/fOLay379LcE?si=X0jnVr8DdRX11IkT
 
 The scripts PlaneClassifier.cs and PlaneConfigurationManager.cs are from my attempts to use plane detection. This could end up being a simpler and more reliable 
 route away from meshing, if having every surface be a horizontal or vertical plane is sufficient complexity for the simulation. It was giving me a lot of trouble to setup so
-that is why I moved to trying meshing. 
+that is why I moved to trying meshing. This is the video I tried following for plane detection in case it is helpful:
+https://youtu.be/sd6rkCeiAy8?si=qUYd6NbXI5lv8r5m
 
 The RenderedMeshPrefab is what is used as the material on the meshed environment. Right now it is set to a transparent material with a shader to render shadows. You could add a color to this prefab to see exactly how the meshing is being done in real time. Also, the ML2 cannot render black shadows, or the absence of light, so the shadow is just a dark red or blue.
 
