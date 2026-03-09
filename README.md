@@ -13,5 +13,5 @@ that is why I moved to trying meshing.
 
 This is the documentation for ML2 and Unity that was used for meshing (TriangleMeshing.cs) and any errors that come up:
 https://developer-docs.magicleap.cloud/docs/guides/unity-openxr/meshing/unity-openxr-meshing/
-^Just be sure to only reference the OpenXR section, as the other is deprecated.
+Just be sure to only reference the OpenXR section, as the other is deprecated.
 
