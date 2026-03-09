@@ -9,9 +9,12 @@ https://youtu.be/fOLay379LcE?si=X0jnVr8DdRX11IkT
 
 The scripts PlaneClassifier.cs and PlaneConfigurationManager.cs are from my attempts to use plane detection. This could end up being a simpler and more reliable 
 route away from meshing, if having every surface be a horizontal or vertical plane is sufficient complexity for the simulation. It was giving me a lot of trouble to setup so
-that is why I moved to trying meshing.
+that is why I moved to trying meshing. 
+
+The RenderedMeshPrefab is what is used as the material on the meshed environment. Right now it is set to a transparent material with a shader to render shadows. You could add a color to this prefab to see exactly how the meshing is being done in real time. Also, the ML2 cannot render black shadows, or the absence of light, so the shadow is just a dark red or blue.
 
 This is the documentation for ML2 and Unity that was used for meshing (TriangleMeshing.cs) and any errors that come up:
-https://developer-docs.magicleap.cloud/docs/guides/unity-openxr/meshing/unity-openxr-meshing/
-Just be sure to only reference the OpenXR section, as the other is deprecated.
+https://developer-docs.magicleap.cloud/docs/guides/unity-openxr/meshing/unity-openxr-meshing/ Just be sure to only reference the OpenXR section, as the other is deprecated.
+
+Pepper controls are done through the PepperController.cs script along with the newer Unity input system. The controller inputs are in the ControllerInputs action set in the assets folder. It may be helpful to watch a guide on the input system as it can confusing at first to know what is going on.
 
